@@ -2,6 +2,7 @@
 **Integrantes:** Martino García Bonzón
 **IA declarada:** Gemini
 **Pista:** Reglas
+**Linkedin:** https://lnkd.in/p/dPwTrG8C
 
 ## 1. Formulación y PEAS
 * **Pregunta:** ¿Llega el corredor a la maratón por debajo de las 4 horas?
